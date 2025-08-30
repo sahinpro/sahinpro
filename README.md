@@ -1,10 +1,12 @@
-# 🧑‍💼 About Me:
-Welcome to My GitHub!  
-Hi, I’m Sahin, a Web Developer currently working at WenextCoder since 2023, where I help businesses achieve their digital transformation goals. I specialize in creating user-focused, scalable, and visually engaging websites and applications.
+<img width="250px" src="https://i.ibb.co.com/n8wvzLMc/sahin-1.png" />  
+
+# Sahin Alam:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=3000&pause=2000&color=382BF1&background=3202FF00&random=true&width=800&lines=Writing+clean%2C+efficient%2C+and+impactful+code.;Always+learning%2C+building%2C+and+innovating.;From+WordPress+to+Full-Stack+development;Turning+ideas+into+scalable+digital+solutions.;Crafting+fast%2C+user-friendly+web+experiences.)](https://git.io/typing-svg)
+ 
+I’m Sahin, a Web Developer currently working at WenextCoder since 2023, where I help businesses achieve their digital transformation goals. I specialize in creating user-focused, scalable, and visually engaging websites and applications.
 
 💼 **Professional Expertise**  
 • **Web Development**: Responsive, SEO-optimized, and performance-driven websites  
-• **Technologies**: HTML, CSS, JavaScript, PHP, WordPress
 • **Agency Experience**: Tailored client solutions at WenextCoder  
 • **Design**: UX/UI design using Figma and Adobe XD  
 
