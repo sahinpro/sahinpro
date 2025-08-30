@@ -1,5 +1,5 @@
 # Sahin Alam
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=3000&pause=2000&color=238636&background=3202FF00&random=true&width=800&lines=Writing+clean%2C+efficient%2C+and+impactful+code.;Always+learning%2C+building%2C+and+innovating.;From+WordPress+to+Full-Stack+development;Turning+ideas+into+scalable+digital+solutions.;Crafting+fast%2C+user-friendly+web+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=3000&pause=2000&color=36CF54&background=3202FF00&vCenter=true&random=true&width=800&height=30&lines=Writing+clean%2C+efficient%2C+and+impactful+code.;Always+learning%2C+building%2C+and+innovating.;From+WordPress+to+Full-Stack+development;Turning+ideas+into+scalable+digital+solutions.;Crafting+fast%2C+user-friendly+web+experiences.)](https://git.io/typing-svg)
  
 I’m Sahin, a Web Developer currently working at WenextCoder since 2023, where I help businesses achieve their digital transformation goals. I specialize in creating user-focused, scalable, and visually engaging websites and applications.
 
@@ -66,10 +66,14 @@ I’m Sahin, a Web Developer currently working at WenextCoder since 2023, where 
 
 
 ---
-### ✍️ Dev Quote
+### ✍️ Dev Quotes
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 49%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" style="width: 49%" />
+  <!-- First Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&font=default" style="width: 49%" />
+  
+  <!-- Second Quote -->
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&font=20px" style="width: 49%" />
 </p>
+
 
 
