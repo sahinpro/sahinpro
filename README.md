@@ -39,7 +39,9 @@ I’m Sahin, a Web Developer currently working at WenextCoder since 2023, where 
 ![WORDPRESS](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![MONGODB](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
