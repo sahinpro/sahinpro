@@ -12,7 +12,6 @@ I specialize in **modern web technologies** to create **scalable, user-focused, 
 ## 💼 Professional Expertise  
 - **Web Development** → Responsive, SEO-optimized & performance-driven websites  
 - **Full-Stack** → MERN & Next.js for scalable solutions  
-- **UI/UX Design** → Figma & Adobe XD for clean, modern interfaces  
 - **Agency Experience** → Delivering tailored client solutions at WenextCoder  
 
 ---
