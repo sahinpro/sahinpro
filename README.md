@@ -4,7 +4,7 @@
 
 ---
 
-I’m **Sahin**, a **Full-Stack Web Developer** currently working at **WenextCoder (since 2023)**, helping businesses achieve their digital transformation goals.  
+**Full-Stack Web Developer** currently working at **WenextCoder (since 2023)**, helping businesses achieve their digital transformation goals.  
 I specialize in **modern web technologies** to create **scalable, user-focused, and visually engaging** applications.
 
 ---
