@@ -25,15 +25,15 @@ I specialize in **modern web technologies** to create **scalable, user-focused, 
 ---
 
 ## 🌟 Personal Portfolio  
-🔗 [sahincoder.vercel.app](https://sahincoder.vercel.app)
+🔗 [sahin.pro.bd](https://sahin.pro.bd)
 
 ---
 
 ## 🌐 Find Me  
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sahincoder)
-[![Website](https://img.shields.io/badge/Website-1769ff?logo=google-chrome&logoColor=white)](https://sahincoder.com)
+[![Website](https://img.shields.io/badge/Website-1769ff?logo=google-chrome&logoColor=white)](https://sahin.pro.bd)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/dHY6eGQJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahincoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinpro)
 [![X](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/sahincoder)
 
 ---
