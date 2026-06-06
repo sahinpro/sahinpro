@@ -145,7 +145,12 @@ availability: Open to remote full-time & contract roles
 **Data & AI**
 
 <p>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/DeepSeek-0D1117?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" />
+  <img src="https://img.shields.io/badge/Qwen-0D1117?style=for-the-badge&logo=alibabacloude&logoColor=FF6A00" />
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
@@ -182,35 +187,39 @@ availability: Open to remote full-time & contract roles
 
 <br />
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Email_(primary)-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></td>
-    <td><a href="mailto:sahinweb@proton.me">sahinweb@proton.me</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></td>
-    <td><a href="https://wa.me/880XXXXXXXXXX">+880 XXXX-XXXXXX</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></td>
-    <td><a href="https://sahin.pro.bd">sahin.pro.bd</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
-    <td><a href="https://linkedin.com/in/sahinpro">linkedin.com/in/sahinpro</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" /></td>
-    <td><a href="https://behance.net/sahinpro">behance.net/sahinpro</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></td>
-    <td><a href="https://dribbble.com/sahinpro">dribbble.com/sahinpro</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></td>
-    <td><a href="https://x.com/sahinprobd">@sahinprobd</a></td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" colspan="2">📬 Contact</th>
+      <th align="center" colspan="2">🌐 Social</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></td>
+      <td><a href="mailto:sahinweb@proton.me">sahinweb@proton.me</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" /></td>
+      <td><a href="https://behance.net/sahinpro">behance.net/sahinpro</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></td>
+      <td><a href="https://wa.me/8801791992313">+8801791992313</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></td>
+      <td><a href="https://dribbble.com/sahinpro">dribbble.com/sahinpro</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+      <td><a href="https://sahin.pro.bd">sahin.pro.bd</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></td>
+      <td><a href="https://x.com/sahinprobd">@sahinprobd</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
+      <td><a href="https://linkedin.com/in/sahinpro">linkedin.com/in/sahinpro</a></td>
+      <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+      <td><a href="https://github.com/sahinpro">github.com/sahinpro</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <br />
