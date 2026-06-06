@@ -35,13 +35,13 @@ experience  : 3+ years · production client delivery
 availability: Open to remote full-time & contract roles
 ```
 
-> Building clean, scalable, and user-focused web products for UK and international clients. I bridge the gap between modern React development and WordPress/WooCommerce ecosystems — delivering full-stack solutions that ship on time and hold up in production.
+> Building clean, scalable, and user-focused web products for UK and international clients. I bridge the gap between modern React development and WordPress/WooCommerce ecosystems. delivering full-stack solutions that ship on time and hold up in production.
 
 ---
 
 ## 🏆 Featured Client Work
 
-> Projects delivered for real businesses — primarily UK-based clients
+> Projects delivered for real wordldwide businesses
 
 <br />
 
