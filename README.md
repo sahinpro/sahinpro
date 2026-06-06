@@ -1,161 +1,220 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=120&section=header&text=&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=140&section=header&text=Sahin%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20WordPress%20%C2%B7%20AI%20Integration&descAlignY=80&descSize=14&descColor=8ecae6" width="100%" />
 </div>
+
+<br />
 
 <div align="center">
 
-# Sahin Alam
+[![Portfolio](https://img.shields.io/badge/🌐%20sahin.pro.bd-0d1117?style=for-the-badge&logoColor=white)](https://sahin.pro.bd)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinpro)&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahinprobd)&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sahinpro)&nbsp;
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sahinpro)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/880XXXXXXXXXX)&nbsp;
+[![Email](https://img.shields.io/badge/sahinweb@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sahinweb@proton.me)
 
-**Full Stack Developer**&nbsp;&nbsp;·&nbsp;&nbsp;React · TypeScript · WordPress · AI Integration
-
-[![Portfolio](https://img.shields.io/badge/sahin.pro.bd-0D1117?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://sahin.pro.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/sahinpro)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00D4FF)](https://x.com/sahinprobd)
-[![Behance](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=00D4FF)](https://behance.net/sahinpro)
-[![Email](https://img.shields.io/badge/sahinhub@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:sahinhub@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=sahinpro&style=flat-square&color=00D4FF&label=Profile+Views)
 
 </div>
 
 ---
 
-## About
+## `$ whoami`
 
-Full Stack Developer with **3+ years** delivering production-grade web applications for UK and international clients.
-
-I specialise in **React 18/19 · TypeScript · Vite · Tailwind** on the frontend, **Node.js · Express** on the backend, and **WordPress · WooCommerce** for CMS-driven products. Currently building an **AI-powered eCommerce analytics platform** as a bootstrapped WordPress plugin — natural language queries, rendered as charts, tables, and cards inside WooCommerce.
-
+```yaml
+name        : Sahin Alam
+role        : Full Stack Developer
+company     : We Next Coder  (March 2023 – present)
+location    : Sylhet, Bangladesh  🇧🇩
+contact     : sahinweb@proton.me
+whatsapp    : +880XXXXXXXXXX
+portfolio   : https://sahin.pro.bd
+speciality  : React · TypeScript · WordPress/WooCommerce · AI API Integration
+experience  : 3+ years · production client delivery
+availability: Open to remote full-time & contract roles
 ```
-📍 Sylhet, Bangladesh        🏢 Full Stack Dev @ We Next Coder (2023–present)
-🔗 sahin.pro.bd              📧 sahinhub@gmail.com
-```
+
+> Building clean, scalable, and user-focused web products for UK and international clients. I bridge the gap between modern React development and WordPress/WooCommerce ecosystems — delivering full-stack solutions that ship on time and hold up in production.
 
 ---
 
-## Featured Client Work
+## 🏆 Featured Client Work
+
+> Projects delivered for real businesses — primarily UK-based clients
+
+<br />
 
 <table>
   <thead>
     <tr>
+      <th align="center">🌐</th>
       <th>Client</th>
       <th>Stack</th>
-      <th>Type</th>
+      <th>Category</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Big Zuu Official</strong></td>
-      <td>WordPress · WooCommerce · Custom Plugin</td>
-      <td>Artist brand & merch platform</td>
+      <td align="center"><img src="https://img.shields.io/badge/🎤-artist-161B22?style=flat-square" /></td>
+      <td><strong><a href="#">Big Zuu Official</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </td>
+      <td>Artist brand &amp; merch platform</td>
     </tr>
     <tr>
-      <td><strong>Tim Campbell MBE</strong></td>
-      <td>WordPress · Elementor</td>
-      <td>Personal brand & speaking platform</td>
+      <td align="center"><img src="https://img.shields.io/badge/🎖️-speaker-161B22?style=flat-square" /></td>
+      <td><strong><a href="#">Tim Campbell MBE</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+      </td>
+      <td>Personal brand &amp; speaking platform</td>
     </tr>
     <tr>
-      <td><strong>Moyo London</strong></td>
-      <td>WordPress · WooCommerce</td>
-      <td>Fashion eCommerce</td>
+      <td align="center"><img src="https://img.shields.io/badge/👗-fashion-161B22?style=flat-square" /></td>
+      <td><strong><a href="#">Moyo London</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+      </td>
+      <td>Fashion eCommerce store</td>
     </tr>
     <tr>
-      <td><strong>Hard Hitterz UK</strong></td>
-      <td>WordPress · Custom Theme</td>
-      <td>Music & events platform</td>
+      <td align="center"><img src="https://img.shields.io/badge/🎵-music-161B22?style=flat-square" /></td>
+      <td><strong><a href="#">Hard Hitterz UK</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Custom_Theme-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+      <td>Music &amp; events platform</td>
     </tr>
     <tr>
-      <td><strong>Future Preparedness Network</strong></td>
-      <td>WordPress · React</td>
-      <td>Training & resources platform</td>
+      <td align="center"><img src="https://img.shields.io/badge/🎓-training-161B22?style=flat-square" /></td>
+      <td><strong><a href="#">Future Preparedness Network</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </td>
+      <td>Training &amp; resources platform</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/🎙️-media-161B22?style=flat-square" /></td>
+      <td><strong><a href="https://www.behance.net/gallery/232903607/Personal-Website-(Charlie-Sloth)">Charlie Sloth</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Custom_Plugin-117AC9?style=flat-square&logo=wordpress&logoColor=white" />
+      </td>
+      <td>Media personality website</td>
     </tr>
   </tbody>
 </table>
 
+<div align="right"><sub>→ Full case studies at <a href="https://sahin.pro.bd/projects">sahin.pro.bd/projects</a></sub></div>
+
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
+
+<br />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React_18%2F19-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React_18%2F19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
 
 **Backend & CMS**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-0D1117?style=for-the-badge&logo=woocommerce&logoColor=96588A)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+</p>
 
 **Data & AI**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
 
-**Tooling**
+**Tooling & Workflow**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Turborepo](https://img.shields.io/badge/Turborepo-0D1117?style=for-the-badge&logo=turborepo&logoColor=EF4444)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
----
-
-## Currently Building
-
-```ts
-// AI Commerce Analytics — WooCommerce Plugin
-// Natural language → business insights
-// Output: charts · tables · cards · plain text
-
-const project = {
-  name    : "AI Commerce Analytics",
-  stack   : ["React 18", "TypeScript", "Google Gemini API", "PHP", "WooCommerce"],
-  model   : "Freemium · WordPress.org · Freemius licensing",
-  status  : "In development 🚧",
-};
-```
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Turborepo-0D1117?style=for-the-badge&logo=turborepo&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
 
 ---
 
-## Learning Roadmap
-
-```
-2025 Q3–Q4  ████████░░  System Design & Architecture fundamentals
-            ████████░░  PostgreSQL — indexing, query planning, transactions
-            ██████░░░░  Docker & containerisation
-
-2026 Q1–Q2  ██████░░░░  CI/CD with GitHub Actions
-            ████░░░░░░  AWS Cloud Practitioner → EC2 · S3 · RDS
-            ████░░░░░░  Redis caching layer
-```
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahinpro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&ring_color=00D4FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinpro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E" width="49%" />
+<img src="https://github-readme-stats-sahinpro.vercel.app/api?username=sahinpro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sahinpro.vercel.app/api/top-langs/?username=sahinpro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sahinpro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="60%" />
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sahinpro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="60%" />
 
 </div>
 
 ---
 
+## 📫 Get In Touch
+
+<br />
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Email_(primary)-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></td>
+    <td><a href="mailto:sahinweb@proton.me">sahinweb@proton.me</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></td>
+    <td><a href="https://wa.me/880XXXXXXXXXX">+880 XXXX-XXXXXX</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+    <td><a href="https://sahin.pro.bd">sahin.pro.bd</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
+    <td><a href="https://linkedin.com/in/sahinpro">linkedin.com/in/sahinpro</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" /></td>
+    <td><a href="https://behance.net/sahinpro">behance.net/sahinpro</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></td>
+    <td><a href="https://dribbble.com/sahinpro">dribbble.com/sahinpro</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></td>
+    <td><a href="https://x.com/sahinprobd">@sahinprobd</a></td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=80&section=footer" width="100%" />
-
-*Open to remote full-time & contract roles · [sahin.pro.bd](https://sahin.pro.bd)*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=80&section=footer" width="100%" />
 </div>
