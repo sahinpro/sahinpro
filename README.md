@@ -28,7 +28,7 @@ role        : Full Stack Developer
 company     : We Next Coder  (March 2023 – present)
 location    : Sylhet, Bangladesh  🇧🇩
 contact     : sahinweb@proton.me
-whatsapp    : +880XXXXXXXXXX
+whatsapp    : +8801791992313
 portfolio   : https://sahin.pro.bd
 speciality  : React · TypeScript · WordPress/WooCommerce · AI API Integration
 experience  : 3+ years · production client delivery
