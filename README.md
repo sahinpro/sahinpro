@@ -187,11 +187,13 @@ availability: Open to remote full-time & contract roles
 
 <br />
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th align="center" colspan="2">📬 Contact</th>
-      <th align="center" colspan="2">🌐 Social</th>
+      <th width="200" align="center">📬 Contact</th>
+      <th width="300" align="left"></th>
+      <th width="200" align="center">🌐 Social</th>
+      <th width="300" align="left"></th>
     </tr>
   </thead>
   <tbody>
