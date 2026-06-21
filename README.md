@@ -30,7 +30,7 @@ location    : Sylhet, Bangladesh  🇧🇩
 contact     : sahinweb@proton.me
 whatsapp    : +8801791992313
 portfolio   : https://sahin.pro.bd
-speciality  : React · TypeScript · WordPress/WooCommerce · AI API Integration
+speciality  : Javascript · React · Ndde.js  · WordPress/WooCommerce · AI API Integration
 experience  : 3+ years · production client delivery
 availability: Open to remote full-time & contract roles
 ```
