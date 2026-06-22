@@ -26,7 +26,7 @@
 name        : Sahin Alam
 role        : Full Stack Developer
 company     : We Next Coder  (March 2023 – present)
-location    : Sylhet, Bangladesh 🇧🇩
+location    : Sylhet, Bangladesh
 contact     : sahinweb@proton.me
 whatsapp    : +8801791992313
 portfolio   : https://sahin.pro.bd
@@ -34,6 +34,8 @@ stack       : JavaScript · React · Next.js · Node.js · WordPress/WooCommerce
 experience  : 3+ years · production client delivery
 availability: Open to remote roles & freelance projects
 ```
+
+🇧🇩 Based in Sylhet, Bangladesh — open to remote-first teams worldwide
 
 > Building clean, scalable, and user-focused web products for UK and international clients. I bridge the gap between modern React development and WordPress/WooCommerce ecosystems, delivering full-stack solutions that ship on time and hold up in production.
 
@@ -52,81 +54,59 @@ availability: Open to remote roles & freelance projects
 
 ---
 
-## 🏆 Featured Client Work
+## 🏆 Selected Work
 
-> Projects delivered for real worldwide businesses
+> A mix of Next.js builds and WordPress/WooCommerce platforms shipped for real businesses
 
 <br />
 
 <table>
   <thead>
     <tr>
-      <th align="center">🌐</th>
-      <th>Client</th>
-      <th>Stack</th>
-      <th>Category</th>
+      <th width="220">Project</th>
+      <th width="420">Stack</th>
+      <th width="360">Category</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎤-artist-161B22?style=flat-square" /></td>
-      <td><strong><a href="#">Big Zuu Official</a></strong></td>
+      <td><strong><a href="https://www.wenextcoder.com/">We Next Coder</a></strong></td>
       <td>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
       </td>
-      <td>Artist brand &amp; merch platform</td>
+      <td>Agency website</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎖️-speaker-161B22?style=flat-square" /></td>
-      <td><strong><a href="#">Tim Campbell MBE</a></strong></td>
+      <td><strong><a href="https://frontend-paydios.vercel.app/">Paydios</a></strong></td>
       <td>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-      </td>
-      <td>Personal brand &amp; speaking platform</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/👗-fashion-161B22?style=flat-square" /></td>
-      <td><strong><a href="#">Moyo London</a></strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-      </td>
-      <td>Fashion eCommerce store</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎵-music-161B22?style=flat-square" /></td>
-      <td><strong><a href="#">Hard Hitterz UK</a></strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Custom_Theme-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </td>
-      <td>Music &amp; events platform</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎓-training-161B22?style=flat-square" /></td>
-      <td><strong><a href="#">Future Preparedness Network</a></strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </td>
-      <td>Training &amp; resources platform</td>
+      <td>Payment gateway frontend landing</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎙️-media-161B22?style=flat-square" /></td>
-      <td><strong><a href="https://www.behance.net/gallery/232903607/Personal-Website-(Charlie-Sloth)">Charlie Sloth</a></strong></td>
+      <td><strong><a href="https://cartelalgo.com/">Cartel Algo</a></strong></td>
       <td>
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Custom_Plugin-117AC9?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
       </td>
-      <td>Media personality website</td>
+      <td>Algo-trading SaaS &amp; membership</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://transiqoltd.co.uk/">Transiqo Ltd</a></strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+      </td>
+      <td>Vehicle rental booking platform</td>
     </tr>
   </tbody>
 </table>
 
-<div align="right"><sub>→ Full case studies at <a href="https://sahin.pro.bd/projects">sahin.pro.bd/projects</a></sub></div>
+<div align="right"><sub>→ More work at <a href="https://sahin.pro.bd/projects">sahin.pro.bd/projects</a></sub></div>
 
 ---
 
