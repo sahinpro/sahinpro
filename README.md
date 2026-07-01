@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20sahin.pro.bd-0d1117?style=for-the-badge&logoColor=white)](https://sahin.pro.bd)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinpro)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahinprobd)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahinpro)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinprobd/)[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahinpro)&nbsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahinpro.hashnode.dev)&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sahinpro)&nbsp;
 [![Email](https://img.shields.io/badge/sahinweb@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sahinweb@proton.me)
@@ -35,7 +35,7 @@ experience  : 3+ years · production client delivery
 availability: Open to remote roles & freelance projects
 ```
 
-🇧🇩 Based in Sylhet, Bangladesh — open to remote-first teams worldwide
+Based in Sylhet, Bangladesh — open to remote-first teams worldwide
 
 > Building clean, scalable, and user-focused web products for UK and international clients. I bridge the gap between modern React development and WordPress/WooCommerce ecosystems, delivering full-stack solutions that ship on time and hold up in production.
 
