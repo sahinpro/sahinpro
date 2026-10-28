@@ -6,10 +6,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20sahinpro.me-0d1117?style=for-the-badge&logoColor=white)](https://sahinpro.me)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20sahin.pro.bd-0d1117?style=for-the-badge&logoColor=white)](https://sahin.pro.bd)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinpro)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahinprobd)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinprobd/)[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahinpro)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinprobd/)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahinpro)&nbsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahinpro.hashnode.dev)&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sahinpro)&nbsp;
 [![Email](https://img.shields.io/badge/sahinweb@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sahinweb@proton.me)
@@ -20,20 +21,16 @@
 
 ---
 
-## `$ whoami`
+<div align="center">
+<img src="https://raw.githubusercontent.com/sahinpro/sahinpro/main/assets/profile-card.svg" alt="Sahin Alam - Full Stack Developer profile card" width="100%" />
 
-```yaml
-name        : Sahin Alam
-role        : Full Stack Developer
-company     : We Next Coder  (March 2023 – present)
-location    : Sylhet, Bangladesh
-contact     : sahinweb@proton.me
-whatsapp    : +8801791992313
-portfolio   : https://sahin.pro.bd
-stack       : JavaScript · React · Next.js · Node.js · WordPress/WooCommerce
-experience  : 3+ years · production client delivery
-availability: Open to remote roles & freelance projects
-```
+<br />
+
+**Full Stack Developer · Next.js · React · WordPress/WooCommerce · Client Delivery**
+
+⚛️ React &nbsp;·&nbsp; ▲ Next.js &nbsp;·&nbsp; 🟢 Node.js &nbsp;·&nbsp; 🟨 JavaScript &nbsp;·&nbsp; 🌐 WordPress / WooCommerce
+
+</div>
 
 Based in Sylhet, Bangladesh — open to remote-first teams worldwide
 
@@ -156,9 +153,33 @@ Based in Sylhet, Bangladesh — open to remote-first teams worldwide
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sahinpro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="60%" />
+<img src="https://streak-stats.demolab.com?user=sahinpro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="60%" />
 
 </div>
+
+---
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
