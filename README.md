@@ -165,16 +165,14 @@ Based in Sylhet, Bangladesh — open to remote-first teams worldwide
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake-dark.svg"
+      srcset="https://cdn.jsdelivr.net/gh/sahinpro/github-snake@output/github-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake.svg"
+      srcset="https://cdn.jsdelivr.net/gh/sahinpro/github-snake@output/github-snake.svg"
     />
-
     <img
-      src="https://raw.githubusercontent.com/sahinpro/github-snake/output/github-snake.svg"
+      src="https://cdn.jsdelivr.net/gh/sahinpro/github-snake@output/github-snake.svg"
       alt="GitHub Contribution Snake"
       width="100%"
     />
