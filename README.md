@@ -197,7 +197,7 @@ Based in Sylhet, Bangladesh — open to remote-first teams worldwide
   <tbody>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></td>
-      <td><a href="mailto:sahinweb@proton.me">sahinweb@proton.me</a></td>
+      <td><a href="mailto:contact@sahinpro.me">contact@sahinpro.me</a></td>
       <td align="center"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></td>
       <td><a href="https://medium.com/@sahinpro">medium.com/@sahinpro</a></td>
     </tr>
@@ -209,7 +209,7 @@ Based in Sylhet, Bangladesh — open to remote-first teams worldwide
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></td>
-      <td><a href="https://sahin.pro.bd">sahin.pro.bd</a></td>
+      <td><a href="https://sahinpro.me">sahinpro.me</a></td>
       <td align="center"><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" /></td>
       <td><a href="https://behance.net/sahinpro">behance.net/sahinpro</a></td>
     </tr>
