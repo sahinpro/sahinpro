@@ -6,15 +6,14 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20sahin.pro.bd-0d1117?style=for-the-badge&logoColor=white)](https://sahin.pro.bd)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20sahin.pro.bd-0d1117?style=for-the-badge&logoColor=white)](https://sahinpro.me)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinpro)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahinprobd)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahinprobd/)&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahinpro)&nbsp;
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahinpro.hashnode.dev)&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sahinpro)&nbsp;
-[![Email](https://img.shields.io/badge/sahinweb@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sahinweb@proton.me)
-
+[![Email](https://img.shields.io/badge/contact@sahinpro.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@sahinpro.me)
 ![Profile views](https://komarev.com/ghpvc/?username=sahinpro&style=flat-square&color=00D4FF&label=Profile+Views)
 
 </div>
